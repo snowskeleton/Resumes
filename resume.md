@@ -78,7 +78,7 @@ SureLock Technology
 –
 03/2021 – 03/2022
 
-- Designed and developed custom ticketing system Python with Django and Docker to track device repair process,
+- Designed and developed custom ticketing system in Python with Django and Docker to track device repair process,
 eliminating "lost devices" and accurately mapping incoming parts to necessary repairs
 - Developed iFixit.com guides for device repair still in use by ~150 users per month
 - Resolved tier 1 and 2 support requests for internal and external customers
