@@ -1,6 +1,6 @@
 [submodule "columns"]
 	path = columns
-	url = ./columns
+	url = https://github.com/snowskeleton/columns
 [submodule "fonts-and-alignment"]
 	path = fonts-and-alignment
-	url = ./columns
+	url = https://github.com/snowskeleton/fonts-and-alignment
