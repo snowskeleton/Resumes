@@ -218,7 +218,7 @@ for the simple process of entering a device, noting parts ordered, and tracking 
 \hfill
 2024
 
-- Designed 24-HR watch face
+- Designed 24-HR analog watch face
 
 
 **[mkb79/audible-cli](https://github.com/mkb79/audible-cli)**,
