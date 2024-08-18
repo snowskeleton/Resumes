@@ -34,6 +34,7 @@ Durham, NC
 :::
 
 ___
+# Experience
 
 **Desktop Support Technician**
 \hfill
@@ -128,10 +129,10 @@ ___
 
 # Skills
 
-## Programming Languages:
+- **Programming Languages:**
 Python, Swift, Bash, JavaScript, AutoHotkey, Golang, Ruby
 
-## Tools and Frameworks:
+- **Tools and Frameworks:**
 GitHub, Git, Docker, VSCode, Xcode, Django, Pytest, PyPi, SwiftUI, CoreData, SwiftData, HyperV, Linux, macOS, Windows
 
 
