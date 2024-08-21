@@ -52,7 +52,7 @@ The Standard Insurance
 \hfill
 Setton Consulting
 –
-09/2024 – 12/2024
+09/2023 – 12/2023
 
 - Developed and deployed a Slackbot that improved security by reminding agents who left a user's MFA in an unsafe Bypassed mode
 - Edited Powershell scripts for InTune deployment
