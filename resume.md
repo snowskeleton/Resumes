@@ -118,6 +118,10 @@ ___
 
 # Skills
 
+## Homelab
+- Maintain a Proxmox server hosting 4 Ubuntu virtual machines, 1 remote hardware Ubuntu server, and 1 cloud Debian server through Linode
+- Manage Tailscale VPN network to connect all server resources and provide secure access while remote
+
 - **Programming Languages:**
 Python, Swift, Bash, JavaScript, AutoHotkey, Golang, Ruby
 
