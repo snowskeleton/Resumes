@@ -54,7 +54,7 @@ Setton Consulting
 –
 09/2023 – 12/2023
 
-- Developed and deployed a Slackbot that improved security by reminding agents who left a user's MFA in an unsafe Bypassed mode
+- Developed and deployed a Python Slackbot that improved security by finding user with incorrect MFA configurations
 - Edited Powershell scripts for InTune deployment
 - Remotely configured and troubleshooted Windows and macOS devices through Connectwise ScreenConnect
 - Administered Office 365, InTune, and Active Directory
