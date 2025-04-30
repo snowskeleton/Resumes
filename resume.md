@@ -38,14 +38,18 @@ ___
 
 **Desktop Support Technician**
 \hfill
-The Standard Insurance
+Net Friends, Inc
 –
-02/2024 – 04/2024
+10/2024 – Present
 
-- Remotely configured and troubleshooted Windows systems through SCCM
-- Updated/Disabled/Created users in ActiveDirectory
-- Managed user workstations through Citrix VDI
-- Documented all calls and chats through ServiceNow, and searched knowledge base for relevant solutions
+- Onboarding/offboarding users, including configuration of Active Directory, Azure AD, Office 365, and Exchange Online
+- Manage SharePoint sites, including coordinating guest access and proper syncing between cloud and device
+- Mitigate compromised user accounts and ensuring users can regain access in under 10 minutes
+- Configure and manage Windows and macOS devices through Intune and Addigy, and virtual machines through Azure, AWS, and Hyper V
+- Configure and troubleshooted Windows systems remotely through N-Central Take Control, and in-person
+- Manage and updated DNS records, including A, CNAME, SPF, DKIM, and DMARC records through Cloudflare and others
+- Update and reference knowledge base articles for common issues
+- Surpass average performance metrics of the team by more than 300% on a regular basis
 
 
 **Desktop Support Technician**
