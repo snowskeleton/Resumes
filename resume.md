@@ -132,6 +132,14 @@ GitHub, Git, Docker, VSCode, Xcode, Django, Pytest, PyPi, SwiftUI, CoreData, Swi
 
 ## iOS Apps
 
+**[snowskeleton/acs-contacts](https://github.com/snowskeleton/acs-contacts)**
+\hfill
+2024
+
+-  Written entirely in SwiftUI,
+ACS connects to a third-party contacts database for churches to facilitate members reaching out to each other.
+It connects to two different APIs and maintains an offline database kept in sync with the cloud.
+
 **[snowskeleton/OSTRich](https://github.com/snowskeleton/ostrich-ios)**
 \hfill
 2024
