@@ -114,21 +114,6 @@ Service Quick
 - Reduced customer record search time from >60 seconds down to <5 seconds by indexing the proper search field
 - Handled highest call volume of all employees, with the highest customer satisfaction rate
 
-
-**Shift Lead**
-\hfill
-Taco Bell
-–
-11/2018 – 03/2019
-
-
-**Call Center Agent**
-\hfill
-Afni Inc
-–
-09/2017 – 07/2018
-
-
 ___
 
 # Skills
