@@ -145,7 +145,7 @@ GitHub, Git, Docker, VSCode, Xcode, Django, Pytest, PyPi, SwiftUI, CoreData, Swi
 
 **[snowskeleton/OSTRich](https://github.com/snowskeleton/ostrich-ios)**
 \hfill
-Soon!
+2024
 
 -  Written entirely in SwiftUI with the new SwiftData database framework,
 OSTRich (Open-Source Tournament Reporter) is a tournament companion app that helps you receive pairings, submit matches, and scout players.
