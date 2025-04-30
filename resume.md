@@ -49,7 +49,7 @@ Net Friends, Inc
 - Configure and troubleshooted Windows systems through N-Central Take Control, remotely and in-person
 - Manage and updated DNS records, including A, CNAME, SPF, DKIM, and DMARC records through Cloudflare and others
 - Update and reference knowledge base articles for common issues
-- Surpass average performance metrics of the team by more than 300% on a regular basis
+- Surpass average team performance metrics by more than 300% on a regular basis
 
 
 **Desktop Support Technician**
