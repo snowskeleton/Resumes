@@ -93,17 +93,6 @@ eliminating "lost devices" and accurately mapping incoming parts to necessary re
 - Managed Linux and Windows VM through HyperV
 
 
-**Low Voltage Cable Technician**
-\hfill
-Adams Tech Group
-–
-10/2020 – 01/2021
-
-- Ran and terminated low voltage CAT 5/6 and FPL (fire alarm) cable
-- Installed IP/Coax Cameras
-- Installed door lock and REX sensors
-
-
 **Repair Center Team Lead**
 \hfill
 Service Quick
@@ -215,12 +204,6 @@ for the simple process of entering a device, noting parts ordered, and tracking 
 
 
 ## Open Source Contributions
-
-**[multipolygon/esphome-for-watchy](https://github.com/multipolygon/esphome-for-watchy)**
-\hfill
-2024
-
-- Designed 24-HR analog watch face
 
 
 **[mkb79/audible-cli](https://github.com/mkb79/audible-cli)**,
