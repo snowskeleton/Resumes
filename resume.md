@@ -42,14 +42,14 @@ Net Friends, Inc
 –
 10/2024 – Present
 
-- Onboarding/offboarding users, including configuration of Active Directory, Azure AD, Office 365, and Exchange Online
-- Manage SharePoint sites, including coordinating guest access and proper syncing between cloud and device
-- Mitigate compromised user accounts and ensuring users can regain access in under 10 minutes
+- Onboard and offboard users, including configuration of Active Directory, Azure AD, Office 365, SharePoint, and Exchange Online
+- Remediate compromised user accounts, restoring user access in under 10 minutes on average
 - Configure and manage Windows and macOS devices through Intune and Addigy, and virtual machines through Azure, AWS, and Hyper V
-- Configure and troubleshooted Windows systems through N-Central Take Control, remotely and in-person
-- Manage and updated DNS records, including A, CNAME, SPF, DKIM, and DMARC records through Cloudflare and others
-- Update and reference knowledge base articles for common issues
-- Surpass average team performance metrics by more than 300% on a regular basis
+- Configure and troubleshooted Windows systems through N-Central Take Control, remotely and onsite
+- Manage and updated DNS records, including A, CNAME, SPF, DKIM, and DMARC records through Cloudflare and other registrars
+- Create and update PowerShell scripts to deploy via Intune or run as one-offs
+- Create and update knowledge base articles for recurring issues
+- Consistently surpass average team performance metrics by over 300%
 
 
 **Desktop Support Technician**
@@ -58,11 +58,11 @@ Setton Consulting
 –
 09/2023 – 12/2023
 
-- Developed and deployed a Python Slackbot that improved security by finding user with incorrect MFA configurations
-- Edited Powershell scripts for Intune deployment
-- Remotely configured and troubleshooted Windows and macOS devices through Connectwise ScreenConnect
+- Developed a Python-based Slackbot that improved security by identifying users with incorrect MFA configurations
+- Edited PowerShell scripts to streamline Intune deployment processes
+- Remotely configured and troubleshooted Windows and macOS devices via Connectwise ScreenConnect
 - Administered Office 365, Intune, and Active Directory
-- Configured DNS records and domain name registration for clients
+- Configured DNS records and domain name registrations for clients
 
 
 **Senior Tech Support Associate**
@@ -73,7 +73,7 @@ Infosys Inc
 
 - Developed Javascript browser extension for assigning jobs to agents in queue
 - Developed AutoHotkey scripts to automate lengthy tasks with IBM Mainframes
-- Configured fiber routes to customer addresses through mainframe interface
+- Mapped and configured fiber routes for residential installations via mainframe interfaces
 - Coordinated process changes with hybrid team
 
 
@@ -83,14 +83,14 @@ SureLock Technology
 –
 03/2021 – 03/2022
 
-- Designed and developed custom ticketing system in Python with Django and Docker to track device repair process,
-eliminating "lost devices" and accurately mapping incoming parts to necessary repairs
-- Developed iFixit.com guides for device repair still in use by ~150 users per month
+- Designed and built a custom ticketing system using Python, Django, and Docker,
+eliminating lost devices and accurately mapping parts to repairs
+- Authored iFixit.com device repair guides still used by ~150 users/month
 - Resolved tier 1 and 2 support requests for internal and external customers
-- Created, updated, deleted Active Directory users, passwords, and permissions
-- Imaged and repaired end-user devices (desktops, laptops, phones, tablets)
-- Oversaw asset management and procurement
-- Managed Linux and Windows VM through HyperV
+- Managed Active Directory user accounts, including access permissions and password resets
+- Imaged, repaired, and deployed end-user hardware (desktops, laptops, phones, tablets)
+- Oversaw asset management and procurement logistics
+- Managed Linux and Windows VM via HyperV
 
 
 **Repair Center Team Lead**
@@ -100,7 +100,7 @@ Service Quick
 05/2019 – 09/2020
 
 - Designed and developed AutoHotkey scripts to search customer records, automate call note templates, and search knowledge base for known issues
-- Reduced customer record search time from >60 seconds down to <5 seconds by indexing the proper search field
+- Cut customer lookup times from 60+ seconds to under 5 seconds by optimizing database indexing
 - Handled highest call volume of all employees, with the highest customer satisfaction rate
 
 ___
