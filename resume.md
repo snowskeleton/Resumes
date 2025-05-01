@@ -116,7 +116,7 @@ and connect everything with Tailscale VPN to provide secure access while remote
 Python, Swift, Bash, JavaScript, AutoHotkey, Golang, Ruby
 
 - **Tools and Frameworks:**
-GitHub, Git, Docker, VSCode, Xcode, Django, Pytest, PyPi, SwiftUI, CoreData, SwiftData, HyperV, Linux, macOS, Windows, TailScale
+GitHub, Git, Docker, VSCode, Xcode, Django, Pytest, PyPi, SwiftUI, CoreData, SwiftData, Linux, macOS, Windows, HyperV, Proxmox, TailScale
 
 
 \newpage
