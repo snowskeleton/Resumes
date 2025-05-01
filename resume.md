@@ -71,9 +71,9 @@ Infosys Inc
 –
 05/2022 – 09/2023
 
-- Developed Javascript browser extension for assigning jobs to agents in queue
-- Developed AutoHotkey scripts to automate lengthy tasks with IBM Mainframes
 - Mapped and configured fiber routes for residential installations via mainframe interfaces
+- Developed AutoHotkey scripts to automate lengthy tasks with IBM Mainframes
+- Developed Javascript browser extension for assigning jobs to agents in queue
 - Coordinated process changes with hybrid team
 
 
