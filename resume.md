@@ -83,14 +83,13 @@ SureLock Technology
 –
 03/2021 – 03/2022
 
-- Designed and built a custom ticketing system using Python, Django, and Docker,
-eliminating lost devices and accurately mapping parts to repairs
-- Authored iFixit.com device repair guides still used by ~150 users/month
-- Resolved tier 1 and 2 support requests for internal and external customers
-- Managed Active Directory user accounts, including access permissions and password resets
 - Imaged, repaired, and deployed end-user hardware (desktops, laptops, phones, tablets)
 - Oversaw asset management and procurement logistics
+- Designed and built a custom ticketing system using Python, Django, and Docker,
+eliminating lost devices and accurately mapping parts to repairs
 - Managed Linux and Windows VM via HyperV
+- Authored iFixit.com device repair guides still used by ~150 users/month
+- Managed Active Directory user accounts, including access permissions and password resets
 
 
 **Repair Center Team Lead**
