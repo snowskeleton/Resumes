@@ -49,7 +49,7 @@ Net Friends, Inc
 - Manage and updated DNS records, including A, CNAME, SPF, DKIM, and DMARC records through Cloudflare and other registrars
 - Create and update PowerShell scripts to deploy via Intune or run as one-offs
 - Create and update knowledge base articles for recurring issues
-- Consistently surpass average team performance metrics by over 200%
+- Custom application development projects for customers, written in Python and Javascript
 
 
 **Desktop Support Technician**
